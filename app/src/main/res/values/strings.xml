@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">buyandsell</string>
+    <!-- 
+        Replace this value with the Web client ID (client_type: 3) from your google-services.json file.
+        It usually ends with .apps.googleusercontent.com 
+    -->
+    <string name="default_web_client_id">125754273513-6ofmi896gv69033dnmpt6477lidtr7iq.apps.googleusercontent.com</string>
+</resources>
